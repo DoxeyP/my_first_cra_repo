@@ -4,3 +4,5 @@ This text was entered in the local repo.
 
 More local text.
 
+Text added by PowerShell.
+
